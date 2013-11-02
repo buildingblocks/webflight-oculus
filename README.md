@@ -3,13 +3,15 @@ webflight-oculus
 
 A Proof of Concept Oculus Rift Plugin for AR-Webflight (http://eschnou.github.io/ardrone-webflight/)
 
-Uses a custom fork of node-dronesteam (https://github.com/buildingblocks/node-dronestream) to stream the video from the Parrot AR Drone into both eyes of the Oculus Rift VR headset.
+Uses a custom fork of node-dronesteam (https://github.com/buildingblocks/node-dronestream) to stream the video from the Parrot AR Drone 2.0 into both eyes of the Oculus Rift VR headset.
 
 Also contains proof of concept code for having the copter turn as you turn your head in the VR headset.
 
 Requires VR.js (https://github.com/benvanik/vr.js) and AR-Webflight (http://eschnou.github.io/ardrone-webflight/) 
 
 Includes the excellent VR.js client code.
+
+Created on an Innovation Day at http://www.building-blocks.com
 
 Installation
 ============

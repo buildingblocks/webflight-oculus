@@ -9,7 +9,7 @@ Also contains proof of concept code for having the copter turn as you turn your 
 
 Requires VR.js (https://github.com/benvanik/vr.js) and AR-Webflight (http://eschnou.github.io/ardrone-webflight/) 
 
-Includes the excellent VR.js plugin code.
+Includes the excellent VR.js client code.
 
 Installation
 ============

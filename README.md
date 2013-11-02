@@ -18,6 +18,7 @@ Installation
  * Install the custom build of node-dronestream (https://github.com/buildingblocks/node-dronestream) - a pull request has been sent to hopefully make this unnesscary. You will need to download our fork, run grunt and copy nodecopter-client.js to the appropriate directory on the AR-WebFlight node_modules directory.
  * Install the VR.js Chrome plugin (only tested with Chrome)
  * Create a new "oculus" directory in the /plugins directory of AR-Webflight.
+ * Add all the files from this repository to the directory.
  * Update the config.js to include the plugin like below
  * Plug in the Oculus Rift
  * Clone your screen into the Oculus Rift
